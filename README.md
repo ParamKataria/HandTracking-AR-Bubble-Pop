@@ -1,3 +1,5 @@
+<img width="1273" height="743" alt="image" src="https://github.com/user-attachments/assets/0a00f96a-7b6f-4b56-8c34-be0e76838b08" />
+
 Bubble Pop Game 🎈💥
 
 An interactive computer vision–based game where you use your hand movements (tracked via webcam) to pop bubbles on the screen. Built with Python, OpenCV, Mediapipe, and Pygame, this project combines AI-driven hand tracking with a fun arcade-style gameplay.
