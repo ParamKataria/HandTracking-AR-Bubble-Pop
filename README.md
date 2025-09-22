@@ -1,4 +1,5 @@
 <img width="1273" height="743" alt="image" src="https://github.com/user-attachments/assets/0a00f96a-7b6f-4b56-8c34-be0e76838b08" />
+<img width="1276" height="752" alt="Screenshot 2025-09-22 164013" src="https://github.com/user-attachments/assets/ff89cedd-320d-4c98-85c2-8de2a6fbbfce" />
 
 Bubble Pop Game 🎈💥
 
